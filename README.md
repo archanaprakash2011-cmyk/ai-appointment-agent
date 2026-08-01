@@ -5,7 +5,7 @@ A live AI agentic workflow that automatically handles appointment booking reques
 Built with n8n, OpenAI, Gmail, and Google Calendar.
 
 ## What it does
-
+![AI Appointment Booking Agent Workflow](workflow-screenshot.png)
 Small businesses receive appointment requests by email constantly. This agent handles the entire booking process autonomously:
 
 → Watches Gmail every minute for new appointment request emails
