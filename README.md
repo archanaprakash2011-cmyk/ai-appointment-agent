@@ -8,11 +8,11 @@ Built with n8n, OpenAI, Gmail, and Google Calendar.
 
 Small businesses receive appointment requests by email constantly. This agent handles the entire booking process autonomously:
 
-\→ Watches Gmail every minute for new appointment request emails
-\→ Uses OpenAI to extract the date, time, and service requested
-\→ Checks Google Calendar for availability in real time
-\→ Sends a confirmation email if the slot is open
-\→ Sends an alternative time suggestion if the slot is taken
+→ Watches Gmail every minute for new appointment request emails
+→ Uses OpenAI to extract the date, time, and service requested
+→ Checks Google Calendar for availability in real time
+→ Sends a confirmation email if the slot is open
+→ Sends an alternative time suggestion if the slot is taken
 
 Zero human intervention required.
 
